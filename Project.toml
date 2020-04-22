@@ -1,4 +1,4 @@
-name = "interpolacja"
-uuid = "9c81200c-5b60-4e57-be91-028b30807ac1"
+name = "inter_powell"
+uuid = "c93a3b47-adb6-462d-a4d9-034891749d28"
 authors = ["justyniaczek <44835858+justyniaczek@users.noreply.github.com>"]
 version = "0.1.0"
