@@ -2,6 +2,7 @@
 Program do szukania minium funcji za pomocą metody Powella. 
 Do programu podaję trzy punkty x1 < x2 < x3 takie, że wartości funkcji w tych punktach spełniają f(x1) > f(x2) < f(x3). Szukam równania wielomianu kwadratowego przechodzącego przez punkty (x1, f(x1)), (x2, f(x2)) i (x3, f(x3)). Następnie obliczam współczynniki a, b, c ze wzoru:
 
+![](https://user-images.githubusercontent.com/44835858/80007715-f2325f80-84c6-11ea-9e72-126db4f05920.png)
 
 
 
