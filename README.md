@@ -1,4 +1,4 @@
-# svopt1
+# Interpolacja kwadratowa Powella
 Program do szukania minium funcji za pomocą metody Powella. 
 Do programu podaję trzy punkty x1 < x2 < x3 takie, że wartości funkcji w tych punktach spełniają f(x1) > f(x2) < f(x3). Szukam równania wielomianu kwadratowego przechodzącego przez punkty (x1, f(x1)), (x2, f(x2)) i (x3, f(x3)). Następnie obliczam współczynniki a, b, c ze wzoru:
 
