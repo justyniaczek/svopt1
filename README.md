@@ -7,5 +7,6 @@ Do programu podaję trzy punkty x1 < x2 < x3 takie, że wartości funkcji w tych
 
 
 Następnie obliczam współczynnik x4:
+![](https://user-images.githubusercontent.com/44835858/80007757-037b6c00-84c7-11ea-9325-b74638bdc44c.png)
 
 Spośród punktów (x1, x2, x3, x4), zatrzymujemy trzy najlepsze (innymi słowy wyrzucamy punkt, w którym wartość funkcji f(x) jest największa) i ponownie dokonujemy interpolacji kwadratowej dla tych trzech punktów i szukamy minimum otrzymanego wielomianu. Procedura ta powtarzana jest az do osiagniecia minimum.
